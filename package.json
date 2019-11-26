@@ -1,0 +1,20 @@
+{
+  "name": "oz-ledger-problem-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/cli": "2.6.0",
+    "@openzeppelin/contracts-ethereum-package": "2.4.0",
+    "dotenv": "^8.2.0",
+    "regenerator-runtime": "0.13.3",
+    "truffle": "5.1.1",
+    "truffle-hdwallet-provider": "1.0.17",
+    "truffle-ledger-provider": "0.0.5"
+  }
+}
